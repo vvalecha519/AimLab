@@ -1541,6 +1541,11 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3855105360680266782, guid: c996b53e9f849234393d1e90f68d1679,
+        type: 3}
+      propertyPath: m_Text
+      value: 'Bullets Fired:'
+      objectReference: {fileID: 0}
     - target: {fileID: 4286297660147311488, guid: c996b53e9f849234393d1e90f68d1679,
         type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -1606,6 +1611,11 @@ PrefabInstance:
       propertyPath: m_textInfo.characterCount
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7337793661761475337, guid: c996b53e9f849234393d1e90f68d1679,
+        type: 3}
+      propertyPath: m_Text
+      value: 'Targets Hit:'
+      objectReference: {fileID: 0}
     - target: {fileID: 7892340976421971769, guid: c996b53e9f849234393d1e90f68d1679,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -1615,6 +1625,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.y
       value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 7966276705436370871, guid: c996b53e9f849234393d1e90f68d1679,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -6.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7966276705436370871, guid: c996b53e9f849234393d1e90f68d1679,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 105.2
       objectReference: {fileID: 0}
     - target: {fileID: 8041970913709386448, guid: c996b53e9f849234393d1e90f68d1679,
         type: 3}
