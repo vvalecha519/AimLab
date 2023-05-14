@@ -19,10 +19,10 @@ This Unity project is a game that helps improve your shooting accuracy in first 
 -Have ranking system
 -Add MacOS build
 
-## How to Play on Windo
+## How to Play on Windows
 - For Windows user download the WinBuild folder in the repo, and run the AimLab.exe file. Then enjoy playing!
 
 
 ## Demo Video
 
-<iframe width="560" height="315" src="/Demo/demo.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="Demo/demo.mp4" frameborder="0" allowfullscreen></iframe>
