@@ -12,7 +12,7 @@ This Unity project is a game that helps improve your shooting accuracy in first 
 - 60 second timer
 - Can create lobby to play with friends (WIP adding multi-player to game)
 
-### Beta Version (upcoming)
+### Beta Version 
 
 -Change sphere targets to archery targets with different scoring rules
 -Add multi-player to game (play 1v1 with friends)
@@ -20,11 +20,9 @@ This Unity project is a game that helps improve your shooting accuracy in first 
 -Add MacOS build
 
 ## How to Play on Windo
-- For Windows user download 
+- For Windows user download the WinBuild folder in the repo, and run the AimLab.exe file. Then enjoy playing!
 
 
-## Photos
+## Demo Video
 
-We welcome feedback on our game and appreciate any suggestions or comments you may have. Please send feedback to [contact email or link to feedback form]. 
-
-Thank you for playing!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/your-video-url" frameborder="0" allowfullscreen></iframe>
