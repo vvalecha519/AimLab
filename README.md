@@ -23,6 +23,11 @@ This Unity project is a game that helps improve your shooting accuracy in first 
 - For Windows user download the WinBuild folder in the repo, and run the AimLab.exe file. Then enjoy playing!
 
 
-## Demo Video
+## Demo Photos
+[<img src="/demo/image.png" align="left" width="200" hspace="10" vspace="10">](/demo/image.png)
+[<img src="/demo/image1.png" align="left" width="200" hspace="10" vspace="10">](/demo/image1.png)
+[<img src="/demo/image2.png" align="left" width="200" hspace="10" vspace="10">](/demo/image2.png)
+[<img src="/demo/image3.png" align="left" width="200" hspace="10" vspace="10">](/demo/image3.png)
+[<img src="/demo/image4.png" align="left" width="200" hspace="10" vspace="10">](/demo/image4.png)
+[<img src="/demo/image4.png" align="left" width="200" hspace="10" vspace="10">](/demo/image5.png)
 
-<video  width="200" src="Demo/demo.mp4" />
